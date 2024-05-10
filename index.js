@@ -6,8 +6,8 @@
 
 // let besh = 5;
 // let ikki = 2;
-// let remainder = besh % ikki;
-// alert("5 ni 2 ga bo'lgandan keyin qoldiq: " + remainder);
+// let ogo = besh % ikki;
+// alert("5 ni 2 ga bo'lgandan keyin qoldiq: " + ogo);
 
 
 // 2-savol  Math metodlari
@@ -16,8 +16,8 @@
 
 // Javob:
 
-// let random = Math.floor(Math.random() * 10) + 1;
-// alert("1 dan 10 gacha tasodifiy raqam: " + random);
+// let randomniy = Math.floor(Math.random() * 10) + 1;
+// alert("1 dan 10 gacha tasodifiy raqam: " + randomniy);
 
 
 // 3-savol Math metodlari
@@ -29,8 +29,8 @@
 // javob:
 
 // let son = 12.510;
-// let butunSoni = Math.floor(son);
-// alert("Butun son: " + butunSoni);
+// let butun = Math.floor(son);
+// alert("Butun son: " + butun);
 
 
 // 4-savol function
@@ -44,8 +44,8 @@
 // }
 
 // let soz = "MARS IT SCHOOL";
-// let harfSoni = harfSoniTop(soz);
-// alert("So'zda " + harfSoni + " ta harf mavjud.");
+// let harf = harfSoniTop(soz);
+// alert("So'zda " + harf + " ta harf mavjud.");
 
 
 // 5-savol for loop
@@ -54,13 +54,13 @@
 
 // Javob:
 
-// function chiqarSoz(marta) {
+// function chiqar(marta) {
 //     for (var i = 0; i < marta; i++) {
 //         console.log("MARS IT SCHOOL");
 //     }
 // }
 
-// chiqarSoz(10);
+// chiqar(10);
 
 
 // 6-savol Array methods
@@ -101,13 +101,13 @@
 // Javob:
 
 // let ism = prompt("Ismingizni kiriting:");
-// let teskari = "";
+// let teskariism = "";
 
 // for (var i = ism.length - 1; i >= 0; i--) {
-//     teskari += ism[i];
+//     teskariism += ism[i];
 // }
 
-// console.log(teskari);
+// console.log(teskariism);
 
 
 // 9-savol Men o'z vazifamni bajaraman :)
